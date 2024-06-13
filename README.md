@@ -1,4 +1,5 @@
-Bank Management System
+**Bank Management System**
+
 Overview
 The Bank Management System is a robust and efficient application developed in Java to manage banking operations. It supports various functionalities such as account creation, transaction processing, balance inquiry, and statement generation, aiming to streamline data processing and enhance operational efficiency within a banking environment.
 
